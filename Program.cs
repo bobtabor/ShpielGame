@@ -15,7 +15,7 @@ namespace ShpielGame
             } else if (response == "2") {
                 Console.WriteLine("You won a boat");
             } else if (response == "3") {
-                Console.WriteLine("You won a house!");
+                Console.WriteLine("You won a motorcycle!");
             } else {
                 Console.WriteLine("You had one job: 1, 2 or 3 ... you LOSE!");
                 Console.Beep();
